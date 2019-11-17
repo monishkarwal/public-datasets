@@ -13,3 +13,21 @@ ng generate @angular/material:material-tabel --name matTable
 ng generate @angular/material:material-dashboard --name matBoard
 
 # Edit main app html file and add selector of navbar then Edit the .html of navbar and add dashboard, tabel selectors in html file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+https://robferguson.org/blog/2018/11/05/getting-started-with-angular-material/
