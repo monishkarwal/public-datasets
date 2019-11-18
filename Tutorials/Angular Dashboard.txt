@@ -15,6 +15,35 @@ ng generate @angular/material:material-dashboard --name matBoard
 # Edit main app html file and add selector of navbar then Edit the .html of navbar and add dashboard, tabel selectors in html file.
 
 
+------------------------------------------------------------------------------------------------------------------------------------
+Angular Recap
+
+TypeScript 
+-Variables let vs var
+-Type annotation
+-Arrays []
+-Class -> variables
+       -> construtor & initilization
+       -> functions
+
+Components
+-Create 
+-Register
+-Use
+
+Services
+-Create
+-Variables and their return type
+-Constructor initialization
+-Custom functions
+-Using another .ts for class (ex. Product or Employee)
+
+Angular
+-String interpolation
+-ngFor ngIf directives
+
+
+
 
 
 
