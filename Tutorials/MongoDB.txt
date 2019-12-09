@@ -1,0 +1,8 @@
+Download monogodb.msi and install
+Run the "mongo.exe" shell using cmd
+It should connect to mongo deamon successfully
+
+
+Installation instructions
+https://docs.mongodb.com/v3.0/tutorial/install-mongodb-on-windows/#set-up-the-mongodb-environment
+See Install mongodb as service
